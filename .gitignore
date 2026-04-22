@@ -3,8 +3,11 @@ venv/
 __pycache__/
 *.pyc
 *.pyo
-ml/*.pkl
+ml/models/*.pkl
+ml/models/*.joblib
 mlruns/
 .DS_Store
 .vscode/
 salesiq.db
+*.png
+*.db
