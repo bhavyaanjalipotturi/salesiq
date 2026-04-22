@@ -1,0 +1,10 @@
+.env
+venv/
+__pycache__/
+*.pyc
+*.pyo
+ml/*.pkl
+mlruns/
+.DS_Store
+.vscode/
+salesiq.db
